@@ -12,3 +12,6 @@ tinydb-serialization
 diffusers
 transformers
 accelerate
+
+selenium
+webdriver-manager
