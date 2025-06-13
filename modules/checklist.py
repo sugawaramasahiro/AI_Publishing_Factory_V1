@@ -27,7 +27,6 @@ DEFAULT_ITEMS = [
 ]
 
 def init_checklist() -> None:
-    """初期化（1 回だけ呼ぶ）"""
     if len(db) == 0:
         db.insert_multiple({"title": t, "done": False} for t in DEFAULT_ITEMS)
 

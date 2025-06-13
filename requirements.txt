@@ -18,3 +18,5 @@ webdriver-manager
 janome
 
 tinydb==4.8.0
+
+tinydb==4.8.0

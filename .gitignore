@@ -5,3 +5,5 @@ output/
 my-app/
 __pycache__/
 secrets.json
+
+.data/
