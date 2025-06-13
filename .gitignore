@@ -4,3 +4,4 @@ output/
 *.epub
 my-app/
 __pycache__/
+secrets.json
