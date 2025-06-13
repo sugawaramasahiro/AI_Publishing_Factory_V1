@@ -8,3 +8,7 @@ tiktoken
 
 tinydb
 tinydb-serialization
+
+diffusers
+transformers
+accelerate
