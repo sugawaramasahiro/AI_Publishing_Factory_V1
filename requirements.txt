@@ -3,3 +3,5 @@ openai
 pillow
 pandas
 python-docx
+
+tiktoken
