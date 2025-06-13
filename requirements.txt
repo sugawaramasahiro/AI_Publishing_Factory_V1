@@ -16,3 +16,5 @@ accelerate
 selenium
 webdriver-manager
 janome
+
+tinydb==4.8.0
