@@ -1,0 +1,6 @@
+venv/
+output/
+*.docx
+*.epub
+my-app/
+__pycache__/
