@@ -1,11 +1,28 @@
+# Environments
+.env
+.venv/
+env/
 venv/
-output/
-*.docx
-*.epub
-my-app/
+ENV/
+
+# Python cache
 __pycache__/
-secrets.json
+*.py[cod]
+*.class
 
-.data/
+# Output files
+output/
+logs/
+*.zip
+*.log
 
-.data/
+# IDEs and editors
+.idea/
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Project Specific
+zero/
